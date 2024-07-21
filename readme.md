@@ -1,25 +1,15 @@
-# Secure storage for Azure Files and Azure Blob storage
+# Secure Storage for Azure Files and Azure Blob Storage:
+For more information about this Microasoft Applied Skills, please check **[Microsoft Learn Documentation](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/)**!
 
-Looking for the **[HTML pages](https://microsoftlearning.github.io/Secure-storage-for-Azure-Files-and-Azure-Blob-Storage/)**?
+## General Instructions:
+- [Demonstration 01](https://microsoftlearning.github.io/Secure-storage-for-Azure-Files-and-Azure-Blob-Storage/Instructions/Demos/DEMO_01_storage_accounts.html): Create and configure storage accounts.
+- [Demonstration 02](https://microsoftlearning.github.io/Secure-storage-for-Azure-Files-and-Azure-Blob-Storage/Instructions/Demos/DEMO_02_blob_storage.html): Create and configure blob storage.
+- [Demonstration 03](https://microsoftlearning.github.io/Secure-storage-for-Azure-Files-and-Azure-Blob-Storage/Instructions/Demos/DEMO_03_file_and_networking_storage.html): Create and configure files and storage networking.
+- [Demonstration 04](https://microsoftlearning.github.io/Secure-storage-for-Azure-Files-and-Azure-Blob-Storage/Instructions/Demos/DEMO_04_web_app_storage.html): Create and configure encryption and secure app access.
 
-**Are you an MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
-
-## What are we doing?
-
-- To support this course, we will need to make frequent updates to the course content to keep it current with the Microsoft services used in the course. We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs (Microsoft Certified Trainer) to keep the content current with product changes.
-
-- We hope this brings a sense of collaboration to the labs like we have never had before - when a Microsoft service such as Azure or Microsoft 365 changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source. Help your fellow MCTs.
-
-## How should I use this repository?
-
-- The instructor materials are your primary source for teaching the course content.
-
-- These files on GitHub are designed to be used in the course labs, which use the hosted lab environment.
-
-- It is recommended that for every delivery, trainers check GitHub for any changes that may have been made to support the latest Microsoft cloud services and get the latest files for their delivery.
-
-## How do I contribute?
-
-- Any MCT (Microsoft Certified Trainer) can submit a pull request to the code or content in the GitHub repro. Microsoft and the course author will then triage and include content and lab code changes as needed.
-
-- You can submit bugs, changes, improvement, and ideas. Find a new Azure or Microsoft 365 feature before we have? Submit a new demo!
+## Labs Exercises:
+- [Exercise 01](https://microsoftlearning.github.io/Secure-storage-for-Azure-Files-and-Azure-Blob-Storage/Instructions/Labs/LAB_01_storage_test_training.html): Provide storage for the IT department testing and training.
+- [Exercise 02](https://microsoftlearning.github.io/Secure-storage-for-Azure-Files-and-Azure-Blob-Storage/Instructions/Labs/LAB_02a_storage_public_website.html): Provide storage for the public website.
+- [Exercise 03](https://microsoftlearning.github.io/Secure-storage-for-Azure-Files-and-Azure-Blob-Storage/Instructions/Labs/LAB_02b_storage_private_docs.html): Provide private storage for internal company documents.
+- [Exercise 04](https://microsoftlearning.github.io/Secure-storage-for-Azure-Files-and-Azure-Blob-Storage/Instructions/Labs/LAB_03_storage_file_shares.html): Provide shared file storage for the company offices.
+- [Exercise 05](https://microsoftlearning.github.io/Secure-storage-for-Azure-Files-and-Azure-Blob-Storage/Instructions/Labs/LAB_04_storage_web_app.html): Provide storage for a new company app.
